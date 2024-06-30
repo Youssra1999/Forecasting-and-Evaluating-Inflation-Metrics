@@ -4,6 +4,8 @@
 
 This project aims to analyze the Consumer Price Index (CPI) and Break-even Rate (BER) data over the past decade. By applying time series forecasting techniques, we predict future CPI values and evaluate the model's performance using mean squared prediction error (MSPE). The analysis provides insights into inflation trends and helps in understanding the relationship between CPI and BER.
 
+![Project Overview](https://github.com/Youssra1999/Forecasting-and-Evaluating-Inflation-Metrics/blob/main/CPI%20and%20BER%20Data%20Analysis%20Forecasting%20and%20Evaluating%20Inflation%20Metrics.png)
+
 ## Table of Contents
 - [Overview](#overview)
 - [Data Description](#data-description)
@@ -57,6 +59,6 @@ I would like to acknowledge the Bureau of Labor Statistics for providing the CPI
 
 ---
 
-For more details, please refer to the full [project report](https://github.com/Youssra1999/Forecasting-and-Evaluating-Inflation-Metrics/blob/main/Forecasting_and_Evaluating_Inflation_Metrics.pdf).
+For more details, please refer to the full [project report](https://github.com/yourusername/cpi-ber-analysis/blob/main/CPI_and_BER_Data_Analysis.pdf).
 
-Feel free to connect with me on [LinkedIn](https://github.com/Youssra1999) for any questions or discussions related to this project.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile) for any questions or discussions related to this project.
